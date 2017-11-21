@@ -27,6 +27,29 @@ If you want to check out what I do have, the links are below:
 * [Spotify][spotify]
 * More streaming services will be added here!
 
+### Services
+
+This list is more for me than anyone else, but since I am sharing my sounds with you, I might as well tell you where you can get them. The reason why I have different lists for sound files versus music is because I do not want to sell the sound files. I may later on down the road change my mind, but since I am producing these for others enjoyment and not to collect royalties, I am going to currently allow them to be free. I may include them in something else that I charge for, such as music or a game, but these are free. As for the music, I would want to sell that, so I will allow them to be in stores. Other than Soundcloud and below, Distrokid will submit the files to these services in the table below, so I am listing them all even if I don't use that store or service at all. As for why I don't allow the sound files to be in a service that can both stream and sell the music, it is because I cannot separate the two and only choose the stream portion and I don't need to deal with refunds for a person not knowing what they are purchasing. Of course, the list below is just a suggestion (mainly meant for me), but this should help you find the stores and services too.
+
+**Service**|**Type**|**Sound**|**Music**
+:-----:|:-----:|:-----:|:-----:
+Spotify | Stream | Yes | Yes
+iTunes | Store | No | Maybe (multi-track issue)
+Apple Music | Stream | Yes | Yes
+Google Play | Stream/Store | No | Maybe (multi-track issue)
+Amazon | Stream/Store | No | Maybe (multi-track issue)
+Pandora | Stream | Yes | Yes
+Deezer | Stream | Yes | Yes
+Tidal | Stream | Yes | Yes
+YouTube | Stream | Sortof (Will do it myself and not through Distrokid) | Same
+Microsoft Groove | Stream (Merging to Spotify) | No (Service Shutting Down) | Same
+ClaroMusica | Stream | Yes | Yes
+Saavn | Stream (Appears to be specifically for Indian music) | No (Probably not good for Dubstep, Electronic, or just sounds in general) | Same
+MediaNet | Stream/Store | No | Maybe (multi-track issue)
+Shazam | Identify | Depends on the file | Yes
+Soundcloud | Stream/Download | Yes | Stream Only
+Patreon | Stream/Download | Yes, Free | Yes, Paid (Does not have multi-track issue if uploaded in flac format)
+
 ### Legal Rights
 
 I have actually taken screenshots of the terms of services for the different services I currently use and will post them here so if someone argues that I gave up copyright, I can say, nope! Here is listed the TOS for [SoundCloud][soundcloud-tos], [Patreon][patreon-tos], [Github][github-tos], and [Distrokid][distrokid-tos]!
